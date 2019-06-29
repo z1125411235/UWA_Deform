@@ -1,0 +1,7 @@
+可開啟版本:Unity 2018.3.14f1
+
+UWA網址___https://lab.uwa4d.com/lab/5cabb5ad72745c25a82d8d64?fbclid=IwAR3UUDnRk1tUG1H2vjtJlzek3pj8KgO-_dq0yT5oQvUqsSfkjYqwUN0leuk
+
+本人Github網址___https://github.com/z1125411235/UWA_Deform
+
+官方Github網址___https://github.com/keenanwoodall/Deform

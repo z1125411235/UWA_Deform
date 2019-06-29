@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deform", "Deform.csproj", "{46458FEA-CD4C-947D-12FE-2A48F338BED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beans.Unity.Collections", "Beans.Unity.Collections.csproj", "{1E283E67-1BFE-20C1-0BBF-DBDA3649394E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beans.Unity.Mathematics", "Beans.Unity.Mathematics.csproj", "{CAE4D1DB-D932-E4C7-76E8-8EF11344A1B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeformEditor", "DeformEditor.csproj", "{0BAB89A3-400A-3731-FC54-BBB22729FC1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beans.Unity.Editor", "Beans.Unity.Editor.csproj", "{DA280462-118C-B7C2-B9CB-5502934B0533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46458FEA-CD4C-947D-12FE-2A48F338BED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46458FEA-CD4C-947D-12FE-2A48F338BED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46458FEA-CD4C-947D-12FE-2A48F338BED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46458FEA-CD4C-947D-12FE-2A48F338BED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E283E67-1BFE-20C1-0BBF-DBDA3649394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E283E67-1BFE-20C1-0BBF-DBDA3649394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E283E67-1BFE-20C1-0BBF-DBDA3649394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E283E67-1BFE-20C1-0BBF-DBDA3649394E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAE4D1DB-D932-E4C7-76E8-8EF11344A1B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE4D1DB-D932-E4C7-76E8-8EF11344A1B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE4D1DB-D932-E4C7-76E8-8EF11344A1B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE4D1DB-D932-E4C7-76E8-8EF11344A1B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAB89A3-400A-3731-FC54-BBB22729FC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAB89A3-400A-3731-FC54-BBB22729FC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAB89A3-400A-3731-FC54-BBB22729FC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAB89A3-400A-3731-FC54-BBB22729FC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA280462-118C-B7C2-B9CB-5502934B0533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA280462-118C-B7C2-B9CB-5502934B0533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA280462-118C-B7C2-B9CB-5502934B0533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA280462-118C-B7C2-B9CB-5502934B0533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
